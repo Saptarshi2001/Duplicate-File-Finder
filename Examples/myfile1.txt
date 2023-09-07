@@ -1,0 +1,711 @@
+<head>
+
+   
+   <base href="https://developer.mozilla.org/en-US/"/>
+<base target="_parent"/>
+<title>Hello,this is hackmaster 3609</title> 
+</head>
+
+<body>
+<cite>Heluuu</cite>
+<caption>The Poem</caption>
+    <h1>Yo how is it going son</h1>
+<h2>Have you watched the rain or withered yourself away in the run</h2>
+<h3>You go on and on,thinking there i am there it is ,here's where the song of victory begins</h3>
+<h4>While the devil unleashes the whip and makes you run</h4>
+<p>The chihuahuas and the pather ,the red monkeys and the <abbr>yellow</abbr> snakes </p>
+<p>You can use <abbr>CSS</abbr> (Cascading Style Sheets) to style your <abbr>HTML</abbr> (HyperText Markup Language). Using style sheets, you can keep your <abbr>CSS</abbr> presentation layer and <abbr>HTML</abbr> content layer separate. This is called "separation of concerns."</p>
+
+<address>
+<a href="https://developer.mozilla.org/en-US/" target="_blank">Over here loser</a><br>
+<a href="https://www.behance.net/gallery/158878769/F1-Arcade-Visual-Identity" target="_blank">Send here</a><br>
+<a href="mailto:saptarshidutta2001@gmail.com?subject=feedback&body=Message">Shoot an email </a><br>
+<a href="tel:9433838868">Call over here</a>
+</address>
+<article class="review">
+<h2>The Dark Knight</h2>
+<p>Great movie</p>
+<article>
+    <h3>User reviews</h3>
+    <p>Great movie!!</p>
+</article>
+
+</article>
+<p>Several species of salamander inhabit the temperate rainforest of the Pacific Northwest, including the Ensatina, the Northwestern Salamander and the Rough-skinned Newt. Most salamanders are nocturnal, and hunt for insects, worms and other small creatures.</p>
+<aside>
+    <p>The salamander prowls at you .what you do</p>
+</aside>
+<audio controls>
+<source src="Hey-Jude.wav"  type="audio/wav" >
+<a href="Hey-Jude.wav">Play the song</a>
+
+</audio>
+<li><bdi class="Rock">Megadeth</bdi></li>
+<li><bdi class="Rock">Shittylica</bdi></li>
+<li><bdo dir="rtl">Tornado of Souls</bdo></li>
+<li><bdo dir="ltr">Iron Man</bdo></li>
+<blockquote 
+cite="https://datatracker.ietf.org/doc/html/rfc1149">
+<p>The world shall know pain</p>
+
+</blockquote>
+<canvas width="300" height="200">
+An alternative
+</canvas>
+<p>The code <code>push()</code>method allows you to push a code</p>
+<p>There is nothing <del cite="https://datatracker.ietf.org/doc/html/rfc1149">good</del> about metallica </p>
+<details open="true"><p>A place where you relieve all of your frustrations in life</p></details>
+<h1>Moghwik</h1>
+<dd>A sea serpent</dd>
+<p>A list</p>
+<ul>
+
+    <li>  <data value="398">Ketchup</data><br></li>
+  <li><data value="399">tomato</data><br></li>
+</ul>
+<input list="Flavours" id="fal" name="fal">
+<datalist id="Flavours">
+<option value="Choclate">
+<option value="latte">
+<option value="Pineapple">
+<option value="Banana">
+
+</datalist>
+<input type="time" list="hours">
+<datalist id="hours">
+<option value="12:00"></option>
+<option value="13:00"></option>
+<option value="14:00"></option>
+</datalist>
+<input type="range" list="markers" id="tick" min="0" max="100"  name="r">
+<datalist id="markers">
+<option value="4"></option>
+<option value="8"></option>
+<option value="59"></option>
+</datalist>
+</body>
+
+
+
+</html>    <head>
+        <link rel="icon" type="image/x-icon" href="p09.jpg">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="format1">
+            attribute:<br>
+            ----------<br>
+            rel	= "first|prev|next|last|stylesheet|icon"<br>
+            href = "URL"<br>
+            target = "_blank|_self|_top|_parent|frame_name"<br>
+        </div>
+        <ul>
+<li>hdhdhd</li>
+<li>hdhdhd</li>
+        </ul>
+    </body>
+</html>
+<head>
+<title>About me</title>
+</head>
+<h1> About Saptarshi Dutta</h1>
+<p>My name is Saptarshi and i am a cool programmer</p>
+<hr width="640" height="10">
+<h2>My classes this quarter</h2>
+<ul>
+ <li>CSE 491-Operating systems</li>
+ <li>CSE 329-DBMS</li>
+ <li>CSE 391-Computer Networks</li>  
+</ul>
+<hr width="640" height="10">
+<h3>My favourite movies</h3>
+<ul>
+ <li>A silent voice</li>
+ <li>Batman</li>
+ <li>Your Name</li>  
+</ul>
+<h4>My moods</h4>
+<p><img src="John-bhaiii.jpg" width="200" height="200">John</p>
+<p><img src="flower.jpg" width="400" height="200">Flower</p> 
+<hr width="640" height="10">
+<h5>Fun facts about my neighbours</h5>
+<p>Bob Snith is like Gojo</p>
+<P>Linda likes F1<P>
+</html><head>
+    <title>Demonstrating Audio and Video</title>
+</head>
+<body>
+    Listen the Song : <audio src = "Audio01.Mp3" controls></audio><br><br>
+    View the Clip   : <video src = "Clip01.mp4" controls width="500px" height="400px"></video><br><br>
+</body>
+</html><head>
+    <title>CMPUT 410 LAB-1</title>
+</head>
+<body>
+<h1><b>CMPUT 410 LAB-1:Example 2</b></h1>
+<p> Here is the information of CMPUT 410</p>
+
+<table width="100%" border="2">
+<tr>
+<td width="40%"><b>Instructor:</b> Dr Osmar R.Zaaine</td> 
+<td width="60%" colspan="2"><b>Classroom:</b> CME 346 (Classical/Mineral Engineering)</td>    
+</tr>
+
+<tr>
+    <td width="33%"><b>Office:</b>ATH 352</td> 
+    <td width="73%"><b>Laboratory:</b> CSC 219</td> 
+</tr>
+
+<tr height="40%">
+<td width="33%"><b>Office Hours:</b>Tuesdays and Wednesdays<br>
+    15:00 to 16:00 </td>
+    <td width="67%" rowspan="3"><b>Teaching Assistants:</b><ul>
+        <li>Jiyang Chen(jiyang@cs.ualberta.ca)</li>
+        <li>Dabo Sun(dabo@cs.ualberta.ca)</li>
+    </ul> </td>
+</tr>
+
+<tr>
+ <td width="43%"><b>email:</b> zaiane@cs.ualberta.ca</td>  
+</tr>
+
+   <tr>
+    <td width="43%"><b>homepage:</b><br> shttp://www.cs.ualberta.ca/~zaiane</td>
+   </tr>
+
+   <tr>
+    <td width="43%"><b>Textbook</b></td>  
+    <td><b>Objective</b></td> 
+   </tr>
+
+   <tr height="100px">
+    <td width="43%">How to program yo!!</td> 
+    <td>Shine on you crazy diamond</td>
+   </tr>
+
+</table>
+</body>
+</html><head>
+    <title>CMPUT 410 LAB-2</title>
+</head>
+<body>
+<h1><b>CMPUT 410 LAB-1:Example 2</b></h1>
+<p> Here is the information of the course textbook</p>
+<table width="100%" border="2">
+<tr >
+<td width="40%"><img src="John-bhaiii.jpg" width="100%" height="60%" alt="not found"></td> 
+<td width="60%"><b><h1>Internet & World Wide Web</h1></b><br><h3>How to Program</h3><br><h3>Second Edition @c 2002</h3><br><h3>ISBN: 0313090</h3><br><h3><b>URL:</b>//www.google.com</h3></td>    
+</tr>
+<tr >
+    <td><b>The first author</b></td> 
+    <td><table width="100%" border="2">
+      <tr bgcolor="cyan">
+       <th width="30%">name</td>
+       <th width="30%">email</td> 
+       <th width="40%">Homepage</td>
+      </tr>
+      <tr>
+        <td width="30%">Saptarshi</td>
+        <td width="30%">saptarshi@gmail</td> 
+        <td width="40%">www.hokl.com</td>
+       </tr>
+       <tr>
+        <td width="30%">SAFFS</td>
+        <td width="30%">sashh@yahoo.com</td> 
+        <td width="40%">www.jjvj.com</td>
+       </tr>
+       <tr>
+        <td width="30%">djjdjd</td>
+        <td width="30%">@ghdhd</td> 
+        <td width="40%">www.fb.com</td>
+       </tr>
+    </table></td>
+</tr>
+
+<tr>
+    <td width="43%"><b>The second author</b></td> 
+</tr>
+<tr>
+ <td width="43%"><b>The third author</b></td>  
+</tr> 
+<tr>
+  <td width="100%" colspan="4" bgcolor="green"><b>Additional information</b></td>  
+</tr>  
+   <tr> 
+    <td><b>Downloads</b></td>
+    <td width="54%"><ul>
+        <li>Examples</li>
+        <li>Examples Update</li>
+        <li>Appendix</li>
+        <li>Chapter 2 for netscape</li>
+        <li>Chapter 2 for netscape examples</li>
+        <li>Netscape 6 testing</li>
+        <li>Powerpoint Lecture slides</li>
+    </ul></td> 
+   </tr>
+   
+</table>
+
+</body>
+</html>    <head>
+        <base target="_blank">
+    </head>
+    <body>
+<ul type="1">
+<li>Primary education</li>
+    <ul type="A">
+     <li>Class 1</li>   
+     <li>Class 2</li>   
+     <li>Class 3</li>   
+     <li>Class 4</li>   
+    </ul>
+<li>Secondary education</li>
+<ul type="A">
+    <li>Class 5</li>   
+     <li>Class 6</li>   
+     <li>Class 7</li>   
+     <li>Class 8</li>
+     <li>9</li>
+     <li>10</li>  
+</ul>
+<li>Higher-Secondary education</li>
+<ul type="A">
+    <li>Science</li>
+    <ul type="1">
+        <li>Physics</li>
+        <li>Chemistry</li>
+        <li>Math</li>
+    </ul>
+    <li>Arts</li>
+    <ul type="1">
+        <li>Bengali</li>
+        <li>English</li>
+        <li>History</li>
+    </ul>
+    <li>Commerce</li>
+    <ul type="1">
+        <li>Accounts</li>
+        <li>Managaement</li>
+        <li>Economics</li>
+    </ul>
+</ul>
+</ul>
+
+
+<ol type="1">
+    <li>Primary education</li>
+        <ol type="A">
+         <li>Class 1</li>   
+         <li>Class 2</li>   
+         <li>Class 3</li>   
+         <li>Class 4</li>   
+        </ol>
+    <li>Secondary education</li>
+    <ol type="A">
+        <li>Class 5</li>   
+         <li>Class 6</li>   
+         <li>Class 7</li>   
+         <li>Class 8</li>
+         <li>9</li>
+         <li>10</li>  
+    </ol>
+    <li>Higher-Secondary education</li>
+    <ol type="A">
+        <li>Science</li>
+        <ol type="1">
+            <li>Physics</li>
+            <li>Chemistry</li>
+            <li>Math</li>
+        </ol>
+        <li>Arts</li>
+        <ol type="1">
+            <li>Bengali</li>
+            <li>English</li>
+            <li>History</li>
+        </ol>
+        <li>Commerce</li>
+        <ol type="1">
+            <li>Accounts</li>
+            <li>Managaement</li>
+            <li>Economics</li>
+        </ol>
+    </ol>
+    </ol>
+
+    </body>
+</html>    <head>
+        <base target="_blank">
+    </head>
+    <body>
+        <img src="john-bhaiii.jpg" width="600px" height="600px" usemap="#saptarshi" border="2px">
+        <map name="saptarshi">
+            <area shape="rect"   coords="50,50,130,80" alt="Pharynx" title="Pharynx" href="Pharynx.html">
+            <area shape="circle" coords="50,90,130,120" alt="Larynx" title="Larynx" href="Larynx.html">
+        </map>
+        <html>
+<head>
+    <title>Demonstrating Form Components</title>
+</head>
+<body>
+    <form name = "frm" method = "post" action = "marketing/report.jsp"></form>
+        Enter User ID : <input type = "text"     id = "t1" name = "uid" size="30"><br><br>
+        Enter Password: <input type = "password" id = "t2" name = "pwd" size="30"><br><br>
+        Enter Address : <textarea id = "t3" name = "address" rows="10" cols="25"></textarea><br><br>
+        Select Subject:<br>
+        <label><input type="checkbox" value="CLanguage"> C Language</label><br>
+        <label><input type="checkbox" value="C++Language"> C++ Language</label><br>
+        <label><input type="checkbox" value="JavaApp"> Core Java</label><br>
+        <label><input type="checkbox" value="Python"> Python</label><br><br>
+        Select Sex: 
+        <label><input type="radio" name = "sex" value="Male"> Male</label> 
+        <label><input type="radio" name = "sex" value="Female"> Female</label> 
+        <label><input type="radio" name = "sex" value="Other"> Other</label><br><br>
+        Country: 
+        <select size="4">
+            <option>India</option>
+            <option>Bhutan</option>
+            <option>Nepal</option>
+            <option>Bangladesh</option>
+            <option>Pakistan</option>
+            <option>Sri Lanka</option>
+        </select><br><br>
+        <input type="Submit"> <input type="Reset">
+    </form>
+</body>
+</html>
+    </body>
+</html><head>
+<title>Preparing a document for the world wide web</title>
+</head>
+<body>
+<h1>Preparing a document for the world wide web</h1>
+<p>Creating HTML pages takes planning, but the results are worthwhile.
+    Imagine the excitement of having your Web page seen by people all over the
+    world.
+    Keep your Web pages to a few screens each. You can link information
+    together, so don’t worry about including everything at once.
+    Remember that readers do not always find your home page first. A link
+    from somewhere else can lead them to the middle of your information, so
+    try not to use words like
+    Back
+    Forward
+    Previous
+    Next
+    To indicate navigation on your pages. </p>
+    <p>
+    Following are some HTML features to help you build a great page: 
+    </p>
+    <h2>Creating HTML Structural elements</h2>
+    <ol>
+        <li>Formatting tags</li> 
+<ul>
+    <li>Heading tags</li>
+    <li>Paragraph tags</li>
+    <li>List tags</li>
+</ul>
+<li>Style tags</li>
+<ul>
+<li><b>Bold</b></li>
+<li><i>Italic</i></li>
+<li><tt>Typewriter text</tt></li>
+</ul>
+    </ol>
+    <hr width="640" size="10">
+    <pre>
+        There was an old woman who lived in a shoe.
+        She had so many children; she didn’t know what to do.
+        She gave them some broth without any bread.
+        She spanked them all soundly and put them to bed. 
+    </pre>
+    <img src="flower.jpg" width="340" height="230" alt="Preview not found">
+    <a href="HW.html" target="_blank">Special note</a>
+    <ul>
+       <li><a href="https://www.google.com/search?q=google&rlz=1C1CHBD_enIN937IN937&oq=google&aqs=chrome..69i57j46i67i131i199i433i465i650j35i39i650j69i59l2j35i39i650j0i67i650j46i67i131i199i433i465i650j0i131i433i512j0i67i131i433i650.916j0j15&sourceid=chrome&ie=UTF-8">Google. Google Search Engine is the best search engine in the world
+        and it is also one of most popular product from Google. [address:
+        www.google.com]</a>
+        <li><a href="https://www.bing.com/">Bing</a></li>
+        <li><a href="https://in.search.yahoo.com/?fr2=inr">Yahoo</a></li>
+        <li><a href="www.baiduinenglish.com">Baidu. [address: www.baiduinenglish.com]</a></li>
+        <li><a href="https://www.aol.com/">AOL. [address: www.aol.in]</a></li>
+        <li><a href="https://www.ask.com/">Ask.com. [address: www.ask.com]</a></li>
+        <li><a href="www.excite.com">Excite. [address: www.excite.com]</a></li>
+        <li><a href="https://duckduckgo.com">DuckDuckGo. [address: https://duckduckgo.com]</a></li>
+    </ul>
+    <a href="John-bhaiii.jpg" target="_blank"><img src="John-bhaiii.jpg" width="200" height="200" alt="Preview not found"></a>
+</body>
+</html><head>
+    <title>Demonstrating Frameset</title>
+</head>
+<frameset rows="50%,50%">
+    <frame name="top" src="Page01.html" scrolling="yes"></frame>
+    <frame name="bot" src="Page02.html" scrolling="no"></frame>
+</frameset>
+</html><head>
+<title>lists</title>
+<base target="_blank">
+</head>
+<body>
+ <p>Homonoidea</p>   
+<ul type="1">
+<li>Hominidae</li>
+<ul type="A">
+<li>Homininae</li>
+<ul type="1">
+    <li>Hominini</li>
+    <ul type="1">
+        <li>Homo</li>
+        <ul type="1">
+             <li>Homo Habilis</li>
+             <li>Homo Rudolfensis</li>
+             <li> Homo Ergaster</li>
+             <li>Homo Erectus</li>
+             <li>Homo Floresiensis</li>
+             <li>Homo Heidelbergensis</li>
+             <li>Homo Neanderthalensis</li>
+             <li>Homo Rhodesiensis</li>
+             <li>Homo Sapiens</li> 
+         
+         </ul>
+         <li>Pan</li>
+        </ul>
+        <li>Gorilini</li>
+        <ul type="1">
+            <li>Gorilla</li>
+        </ul>
+    </ul>
+    <li>Ponginae</li>
+    <ul type="1">
+        <li>Pongo</li>
+        </ul>
+</ul>
+<li>Hylobatidae</li>
+<ul type="A">
+    <li>Bunopithecus </li>
+   <li>Hylobates</li> 
+<li>Nomascus</li>
+<li>Symphalangus</li>
+</ul>
+</ul>
+
+
+<p>Homonoidea</p>   
+<ol type="1">
+<li>Hominidae</li>
+<ol type="A">
+<li>Homininae</li>
+<ol type="I">
+    <li>Hominini</li>
+    <ol type="a">
+        <li>Homo</li>
+        <ol type="i">
+             <li>Homo Habilis</li>
+             <li>Homo Rudolfensis</li>
+             <li>Homo Ergaster</li>
+             <li>Homo Erectus</li>
+             <li>Homo Floresiensis</li>
+             <li>Homo Heidelbergensis</li>
+             <li>Homo Neanderthalensis</li>
+             <li>Homo Rhodesiensis</li>
+             <li>Homo Sapiens</li> 
+         </ol>
+         <li>Pan</li>
+        </ol>
+        <li>Gorilini</li>
+        <ol type="a">
+            <li>Gorilla</li>
+        </ol>
+    </ol>
+    <li>Ponginae</li>
+    <ol type="I">
+        <li>Pongo</li>
+        </ol>
+</ol>
+<li>Hylobatidae</li>
+<ol type="A">
+    <li>Bunopithecus </li>
+   <li>Hylobates</li> 
+<li>Nomascus</li>
+<li>Symphalangus</li>
+</ol>
+</ol>
+</body>
+
+</html>
+
+
+<head>
+    <title>Demonstrating Hyperlink</title>
+</head>
+<body>
+    <p>
+        <h1>Index<hr></h1>
+        <h2><a href="#preface">1) Preface</a></h2>
+        <h2><a href="#introduction">2) Introduction</a></h2>
+        <h2><a href="#war_parties">3) War Parties</a></h2>
+        <h2><a href="#consequences">4) Consequences</a></h2>
+        <h2><a href="Pharynx.html" target="_blank">5) Pharynx</a></h2>
+    </p>
+    <p>
+        <h1><a name="#preface">Preface</a></h1>
+        <p>World War II or the Second World War, often abbreviated as WWII or WW2, was a global conflict that lasted from 1939 to 1945. The vast majority of the world's countries, including all of the great powers, fought as part of two opposing military alliances: the Allies and the Axis. Many participants threw their economic, industrial, and scientific capabilities behind this total war, blurring the distinction between civilian and military resources. Aircraft played a major role, enabling the strategic bombing of population centres and the delivery of the only two nuclear weapons ever used in war. World War II was by far the deadliest conflict in history, resulting in an estimated 70 to 85 million fatalities, mostly among civilians. Tens of millions died due to genocides (including the Holocaust), starvation, massacres, and disease. In the wake of the Axis defeat, Germany and Japan were occupied, and war crimes tribunals were conducted against German and Japanese leaders.</p>
+        <p>The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, Spanish Civil War, Second Sino-Japanese War, Soviet–Japanese border conflicts, the rise of fascism in Europe, and European tensions in the aftermath of World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov–Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their "spheres of influence" across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, in a military alliance with Italy, Japan and other countries called the Axis. Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.</p>
+        <p>Japan, which aimed to dominate Asia and the Pacific, was at war with the Republic of China by 1937. In December 1941, Japan attacked American and British territories with near-simultaneous offensives against Southeast Asia and the Central Pacific, including an attack on the U.S. fleet at Pearl Harbor which resulted in the United States and United Kingdom declaring war against Japan. The European Axis powers declared war on the United States in solidarity. Japan soon captured much of the western Pacific, but its advances were halted in 1942 after losing the critical Battle of Midway; later, Germany and Italy were defeated in North Africa and at Stalingrad in the Soviet Union. Key setbacks in 1943—including a series of German defeats on the Eastern Front, the Allied invasions of Sicily and the Italian mainland, and Allied offensives in the Pacific—cost the Axis powers their initiative and forced them into strategic retreat on all fronts. In 1944, the Western Allies invaded German-occupied France, while the Soviet Union regained its territorial losses and pushed Germany and its allies back. During 1944 and 1945, Japan suffered reversals in mainland Asia, while the Allies crippled the Japanese Navy and captured key western Pacific islands. The war in Europe concluded with the liberation of German-occupied territories and the invasion of Germany by the Western Allies and the Soviet Union, culminating in the Fall of Berlin to Soviet troops, Hitler's suicide, and the German unconditional surrender on 8 May 1945. Following the refusal of Japan to surrender on the terms of the Potsdam Declaration (issued 26 July 1945), the United States dropped the first atomic bombs on the Japanese cities of Hiroshima on 6 August and Nagasaki on 9 August. Faced with an imminent invasion of the Japanese archipelago, the possibility of additional atomic bombings, and the Soviet Union's declared entry into the war against Japan on the eve of invading Manchuria, Japan announced on 10 August its intention to surrender, signing a surrender document on 2 September 1945.</p>
+        <p>World War II changed the political alignment and social structure of the globe and set the foundation for the international order of the world's nations for the rest of the 20th century and into the present day. The United Nations was established to foster international co-operation and prevent future conflicts, with the victorious great powers—China, France, the Soviet Union, the United Kingdom, and the United States—becoming the permanent members of its Security Council. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the nearly half-century-long Cold War. In the wake of European devastation, the influence of its great powers waned, triggering the decolonisation of Africa and Asia. Most countries whose industries had been damaged moved towards economic recovery and expansion. Political and economic integration, especially in Europe, began as an effort to forestall future hostilities, end pre-war enmities, and forge a sense of common identity.</p>
+    </p>
+    <p>
+        <h1><a name="#introduction">Introduction</a></h1>
+        <p>World War II or the Second World War, often abbreviated as WWII or WW2, was a global conflict that lasted from 1939 to 1945. The vast majority of the world's countries, including all of the great powers, fought as part of two opposing military alliances: the Allies and the Axis. Many participants threw their economic, industrial, and scientific capabilities behind this total war, blurring the distinction between civilian and military resources. Aircraft played a major role, enabling the strategic bombing of population centres and the delivery of the only two nuclear weapons ever used in war. World War II was by far the deadliest conflict in history, resulting in an estimated 70 to 85 million fatalities, mostly among civilians. Tens of millions died due to genocides (including the Holocaust), starvation, massacres, and disease. In the wake of the Axis defeat, Germany and Japan were occupied, and war crimes tribunals were conducted against German and Japanese leaders.</p>
+        <p>The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, Spanish Civil War, Second Sino-Japanese War, Soviet–Japanese border conflicts, the rise of fascism in Europe, and European tensions in the aftermath of World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov–Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their "spheres of influence" across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, in a military alliance with Italy, Japan and other countries called the Axis. Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.</p>
+        <p>Japan, which aimed to dominate Asia and the Pacific, was at war with the Republic of China by 1937. In December 1941, Japan attacked American and British territories with near-simultaneous offensives against Southeast Asia and the Central Pacific, including an attack on the U.S. fleet at Pearl Harbor which resulted in the United States and United Kingdom declaring war against Japan. The European Axis powers declared war on the United States in solidarity. Japan soon captured much of the western Pacific, but its advances were halted in 1942 after losing the critical Battle of Midway; later, Germany and Italy were defeated in North Africa and at Stalingrad in the Soviet Union. Key setbacks in 1943—including a series of German defeats on the Eastern Front, the Allied invasions of Sicily and the Italian mainland, and Allied offensives in the Pacific—cost the Axis powers their initiative and forced them into strategic retreat on all fronts. In 1944, the Western Allies invaded German-occupied France, while the Soviet Union regained its territorial losses and pushed Germany and its allies back. During 1944 and 1945, Japan suffered reversals in mainland Asia, while the Allies crippled the Japanese Navy and captured key western Pacific islands. The war in Europe concluded with the liberation of German-occupied territories and the invasion of Germany by the Western Allies and the Soviet Union, culminating in the Fall of Berlin to Soviet troops, Hitler's suicide, and the German unconditional surrender on 8 May 1945. Following the refusal of Japan to surrender on the terms of the Potsdam Declaration (issued 26 July 1945), the United States dropped the first atomic bombs on the Japanese cities of Hiroshima on 6 August and Nagasaki on 9 August. Faced with an imminent invasion of the Japanese archipelago, the possibility of additional atomic bombings, and the Soviet Union's declared entry into the war against Japan on the eve of invading Manchuria, Japan announced on 10 August its intention to surrender, signing a surrender document on 2 September 1945.</p>
+        <p>World War II changed the political alignment and social structure of the globe and set the foundation for the international order of the world's nations for the rest of the 20th century and into the present day. The United Nations was established to foster international co-operation and prevent future conflicts, with the victorious great powers—China, France, the Soviet Union, the United Kingdom, and the United States—becoming the permanent members of its Security Council. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the nearly half-century-long Cold War. In the wake of European devastation, the influence of its great powers waned, triggering the decolonisation of Africa and Asia. Most countries whose industries had been damaged moved towards economic recovery and expansion. Political and economic integration, especially in Europe, began as an effort to forestall future hostilities, end pre-war enmities, and forge a sense of common identity.</p>
+    </p>
+    <p>
+        <h1><a name="#war_parties">War Parties</a></h1>
+        <p>World War II or the Second World War, often abbreviated as WWII or WW2, was a global conflict that lasted from 1939 to 1945. The vast majority of the world's countries, including all of the great powers, fought as part of two opposing military alliances: the Allies and the Axis. Many participants threw their economic, industrial, and scientific capabilities behind this total war, blurring the distinction between civilian and military resources. Aircraft played a major role, enabling the strategic bombing of population centres and the delivery of the only two nuclear weapons ever used in war. World War II was by far the deadliest conflict in history, resulting in an estimated 70 to 85 million fatalities, mostly among civilians. Tens of millions died due to genocides (including the Holocaust), starvation, massacres, and disease. In the wake of the Axis defeat, Germany and Japan were occupied, and war crimes tribunals were conducted against German and Japanese leaders.</p>
+        <p>The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, Spanish Civil War, Second Sino-Japanese War, Soviet–Japanese border conflicts, the rise of fascism in Europe, and European tensions in the aftermath of World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov–Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their "spheres of influence" across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, in a military alliance with Italy, Japan and other countries called the Axis. Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.</p>
+        <p>Japan, which aimed to dominate Asia and the Pacific, was at war with the Republic of China by 1937. In December 1941, Japan attacked American and British territories with near-simultaneous offensives against Southeast Asia and the Central Pacific, including an attack on the U.S. fleet at Pearl Harbor which resulted in the United States and United Kingdom declaring war against Japan. The European Axis powers declared war on the United States in solidarity. Japan soon captured much of the western Pacific, but its advances were halted in 1942 after losing the critical Battle of Midway; later, Germany and Italy were defeated in North Africa and at Stalingrad in the Soviet Union. Key setbacks in 1943—including a series of German defeats on the Eastern Front, the Allied invasions of Sicily and the Italian mainland, and Allied offensives in the Pacific—cost the Axis powers their initiative and forced them into strategic retreat on all fronts. In 1944, the Western Allies invaded German-occupied France, while the Soviet Union regained its territorial losses and pushed Germany and its allies back. During 1944 and 1945, Japan suffered reversals in mainland Asia, while the Allies crippled the Japanese Navy and captured key western Pacific islands. The war in Europe concluded with the liberation of German-occupied territories and the invasion of Germany by the Western Allies and the Soviet Union, culminating in the Fall of Berlin to Soviet troops, Hitler's suicide, and the German unconditional surrender on 8 May 1945. Following the refusal of Japan to surrender on the terms of the Potsdam Declaration (issued 26 July 1945), the United States dropped the first atomic bombs on the Japanese cities of Hiroshima on 6 August and Nagasaki on 9 August. Faced with an imminent invasion of the Japanese archipelago, the possibility of additional atomic bombings, and the Soviet Union's declared entry into the war against Japan on the eve of invading Manchuria, Japan announced on 10 August its intention to surrender, signing a surrender document on 2 September 1945.</p>
+        <p>World War II changed the political alignment and social structure of the globe and set the foundation for the international order of the world's nations for the rest of the 20th century and into the present day. The United Nations was established to foster international co-operation and prevent future conflicts, with the victorious great powers—China, France, the Soviet Union, the United Kingdom, and the United States—becoming the permanent members of its Security Council. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the nearly half-century-long Cold War. In the wake of European devastation, the influence of its great powers waned, triggering the decolonisation of Africa and Asia. Most countries whose industries had been damaged moved towards economic recovery and expansion. Political and economic integration, especially in Europe, began as an effort to forestall future hostilities, end pre-war enmities, and forge a sense of common identity.</p>
+    </p>
+    <p>
+        <h1><a name="#consequences">Consequences</a></h1>
+        <p>World War II or the Second World War, often abbreviated as WWII or WW2, was a global conflict that lasted from 1939 to 1945. The vast majority of the world's countries, including all of the great powers, fought as part of two opposing military alliances: the Allies and the Axis. Many participants threw their economic, industrial, and scientific capabilities behind this total war, blurring the distinction between civilian and military resources. Aircraft played a major role, enabling the strategic bombing of population centres and the delivery of the only two nuclear weapons ever used in war. World War II was by far the deadliest conflict in history, resulting in an estimated 70 to 85 million fatalities, mostly among civilians. Tens of millions died due to genocides (including the Holocaust), starvation, massacres, and disease. In the wake of the Axis defeat, Germany and Japan were occupied, and war crimes tribunals were conducted against German and Japanese leaders.</p>
+        <p>The causes of World War II are debated, but contributing factors included the Second Italo-Ethiopian War, Spanish Civil War, Second Sino-Japanese War, Soviet–Japanese border conflicts, the rise of fascism in Europe, and European tensions in the aftermath of World War I. World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland. The United Kingdom and France subsequently declared war on Germany on 3 September. Under the Molotov–Ribbentrop Pact of August 1939, Germany and the Soviet Union had partitioned Poland and marked out their "spheres of influence" across Finland, Estonia, Latvia, Lithuania and Romania. From late 1939 to early 1941, in a series of campaigns and treaties, Germany conquered or controlled much of continental Europe, in a military alliance with Italy, Japan and other countries called the Axis. Following the onset of campaigns in North Africa and East Africa, and the fall of France in mid-1940, the war continued primarily between the European Axis powers and the British Empire, with war in the Balkans, the aerial Battle of Britain, the Blitz of the United Kingdom, and the Battle of the Atlantic. On 22 June 1941, Germany led the European Axis powers in an invasion of the Soviet Union, opening the Eastern Front, the largest land theatre of war in history.</p>
+        <p>Japan, which aimed to dominate Asia and the Pacific, was at war with the Republic of China by 1937. In December 1941, Japan attacked American and British territories with near-simultaneous offensives against Southeast Asia and the Central Pacific, including an attack on the U.S. fleet at Pearl Harbor which resulted in the United States and United Kingdom declaring war against Japan. The European Axis powers declared war on the United States in solidarity. Japan soon captured much of the western Pacific, but its advances were halted in 1942 after losing the critical Battle of Midway; later, Germany and Italy were defeated in North Africa and at Stalingrad in the Soviet Union. Key setbacks in 1943—including a series of German defeats on the Eastern Front, the Allied invasions of Sicily and the Italian mainland, and Allied offensives in the Pacific—cost the Axis powers their initiative and forced them into strategic retreat on all fronts. In 1944, the Western Allies invaded German-occupied France, while the Soviet Union regained its territorial losses and pushed Germany and its allies back. During 1944 and 1945, Japan suffered reversals in mainland Asia, while the Allies crippled the Japanese Navy and captured key western Pacific islands. The war in Europe concluded with the liberation of German-occupied territories and the invasion of Germany by the Western Allies and the Soviet Union, culminating in the Fall of Berlin to Soviet troops, Hitler's suicide, and the German unconditional surrender on 8 May 1945. Following the refusal of Japan to surrender on the terms of the Potsdam Declaration (issued 26 July 1945), the United States dropped the first atomic bombs on the Japanese cities of Hiroshima on 6 August and Nagasaki on 9 August. Faced with an imminent invasion of the Japanese archipelago, the possibility of additional atomic bombings, and the Soviet Union's declared entry into the war against Japan on the eve of invading Manchuria, Japan announced on 10 August its intention to surrender, signing a surrender document on 2 September 1945.</p>
+        <p>World War II changed the political alignment and social structure of the globe and set the foundation for the international order of the world's nations for the rest of the 20th century and into the present day. The United Nations was established to foster international co-operation and prevent future conflicts, with the victorious great powers—China, France, the Soviet Union, the United Kingdom, and the United States—becoming the permanent members of its Security Council. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the nearly half-century-long Cold War. In the wake of European devastation, the influence of its great powers waned, triggering the decolonisation of Africa and Asia. Most countries whose industries had been damaged moved towards economic recovery and expansion. Political and economic integration, especially in Europe, began as an effort to forestall future hostilities, end pre-war enmities, and forge a sense of common identity.</p>
+    </p>
+    <html>
+<head>
+    <title>Demonstrating Table</title>
+</head>
+<body>
+    <table width = 100% border = 1>
+        <caption><h1>Annual Sales Report</h1></caption>
+        <tr bgcolor="pink">
+            <th width="25%">Product Name</th>
+            <th width="25%">Quantity</th>
+            <th width="25%">Rate/Unit</th>
+            <th width="25%">Amount</th>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+        <tr>
+            <td bgcolor="orange">Mother Board</td>
+            <td bgcolor="yellow">10 pcs</td>
+            <td bgcolor="yellow">Rs. 15,000</td>
+            <td bgcolor="yellow">Rs. 1,50,000</td>
+        </tr>
+    </table>
+</body>
+</html>
+</body>
+</html><head>
+<title>Table</title>  
+</head>
+<table width="100%" border="1">
+<tr height="100px">
+<td width="99%" colspan="3">1</td>
+
+</tr>
+<tr height="100px">
+    <td width="33%">5</td>
+    <td width="34%">6</td>
+    <td width="33%">8</td>
+</tr>
+<tr height="100px">
+    <td width="99%" colspan="3">9</td>
+</tr>
+
+</table>
+
+
+</html><head>
+    <title>Demonstrating Table</title>
+</head>
+<body>
+    <table width = 100% border = 1>
+        <tr height = 100px>
+            <td width="40%" rowspan="2">1</td>
+            <td width="60%">2</td>
+        </tr>
+        <tr height = 100px>
+            <td width="60%" rowspan="2">4</td>
+        </tr>
+        <tr height = 100px>
+            <td width="40%" rowspan="2">5</td>
+        </tr>
+        <tr height = 100px>
+            <td width="60%">8</td>
+        </tr>
+    </table>
+</body>
+</html>

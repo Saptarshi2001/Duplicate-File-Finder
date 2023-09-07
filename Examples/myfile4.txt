@@ -1,0 +1,17 @@
+<head>
+
+   
+   <base href="https://developer.mozilla.org/en-US/"/>
+<base target="_parent"/>
+<title>Hello,this is hackmaster 3609</title> 
+</head>
+
+<body>
+<cite>He</cit>
+<caption>The Poem</caption>
+    <h1>Yo how is it going son</h1>
+<h2>Have you watched the rain or withered yourself away in the run</h2>
+<h3>You go on and on,thinking there i am there it is ,here's where the song of victory begins</h3>
+<h4>While the devil unleashes the whip and makes you run</h4>
+<p>The chihuahuas and the pather ,the red monkeys and the <abbr>yellow</abbr> snakes </p>
+<p>You can use <abbr>CSS</abbr> (Cascading Style Sheets) to style your <abbr>HTML</abbr> (HyperText Markup Language). Using style sheets, you can keep your <abbr>CSS</abbr> presentation layer and <abbr>HTML</abbr> content layer separate. This is called "separation of concerns."</p>
