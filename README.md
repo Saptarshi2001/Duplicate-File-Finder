@@ -14,7 +14,7 @@ The File Duplicate Finder is a Python script that helps you find duplicate files
 - os module
 
 ## Installation
--  git clone https://github.com/Saptarshi2001/Duplicate-File-Finder.git
+ >  git clone https://github.com/Saptarshi2001/Duplicate-File-Finder.git
 
 ## To search for duplicate files
 - Run the python script:-
