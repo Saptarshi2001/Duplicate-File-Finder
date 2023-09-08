@@ -8,23 +8,26 @@ The File Duplicate Finder is a Python script that helps you find duplicate files
 - Supports searching for duplicates within a specific directory or its subdirectories
 - Generates a report of duplicate files
   
-  ## Requirements
+## Requirements
 - Python 3.x
 - hashlib module
 - os module
 
- ## Installation
+## Installation
 -  git clone https://github.com/Saptarshi2001/Duplicate-File-Finder.git
 
- ## To search for duplicate files
- Run the python script:-
- ## Enter the drive name where you want to search
+## To search for duplicate files
+- Run the python script:-
+## Enter the drive name where you want to search
  > ENTER DRIVE NAME:
- ## Enter the directory name where you want to search
+## Enter the directory name where you want to search
  > ENTER THE DIRECTORY NAME:
- ### These commands will help you find the duplicate files you want
  
- 
+## Contributions
+ - This library will be further improved and made better.Feel free to contribute to it.
+   
+## License
+ - This project is under the MIT license.
  
   
 
