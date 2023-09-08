@@ -25,8 +25,3 @@ The File Duplicate Finder is a Python script that helps you find duplicate files
 ## Contributions
  - This library will be further improved and made better.Feel free to contribute to it.
    
-## License
- - This project is under the MIT license.
- 
-  
-
