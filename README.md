@@ -1,7 +1,7 @@
 # File Duplicate Finder
 
 ## Description
-The File Duplicate Finder is a Python script that helps you find duplicate files in a given directory in any of your disk drives. It uses file hashing techniques to identify files with identical content, allowing you to efficiently clean up your file system and save disk space.
+The File Duplicate Finder is a Python program that helps you find duplicate files in a given directory in any of your disk drives. It uses file hashing techniques to identify files with identical content, allowing you to efficiently clean up your file system and save disk space.
 
 ## Features
 - Finds duplicate files based on their content, not just their names
@@ -9,8 +9,7 @@ The File Duplicate Finder is a Python script that helps you find duplicate files
 - Generates a report of duplicate files
   
 ## Requirements
-- Python 3.x
-- hashlib module
+- Python 3.3
 - os module
 
 ## Installation
@@ -23,9 +22,9 @@ The File Duplicate Finder is a Python script that helps you find duplicate files
  > ENTER THE DIRECTORY NAME:
 ## Examples
  -ENTER DRIVE NAME: D
-ENTER THE DIRECTORY NAME: matching
-THE DUPLICATE FILES ARE:- 
-{'myfile6.txt', 'myfile3.txt', 'myfile2.txt', 'myfile5.txt'}	
+> ENTER THE DIRECTORY NAME: matching
+> THE DUPLICATE FILES ARE:- 
+> {'myfile6.txt', 'myfile3.txt', 'myfile2.txt', 'myfile5.txt'}	
 
 ## Contributions
  - This library will be further improved and made better.Feel free to contribute to it.
