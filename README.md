@@ -21,8 +21,8 @@ The File Duplicate Finder is a Python program that helps you find duplicate file
 ## Enter the directory name where you want to search
  > ENTER THE DIRECTORY NAME:
 ## Examples
- -ENTER DRIVE NAME: D
-> ENTER THE DIRECTORY NAME: matching
+ - ENTER DRIVE NAME: D
+ - ENTER THE DIRECTORY NAME: matching
 > THE DUPLICATE FILES ARE:- 
 > {'myfile6.txt', 'myfile3.txt', 'myfile2.txt', 'myfile5.txt'}	
 
