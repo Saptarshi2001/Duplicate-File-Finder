@@ -1,43 +1,55 @@
 import os
 
-def createdictfiles(directory):
-	dict={}
-	filenames=os.listdir(directory)
-	for fn in filenames:
-		data=open(os.path.join(directory,fn),'rb').read()
-		hash_code=hash(data)
-		if hash_code not in dict:
-			dict[hash_code]=set()
-		dict[hash_code].add(fn)
+def createdictfiles(directoryname):
+	try:
+		dict={}
+		filenames=os.listdir(directoryname)
+		for fn in filenames:
+			with open(os.path.join(directoryname,fn),'rb') as files:
+				data=files.read()
+				hash_code=hash(data)
+				if hash_code not in dict:
+					dict[hash_code]=set()
+				dict[hash_code].add(fn)
+			
+	except:
+		print('HASH CODE NOT GENERATED' )
 	return dict
 
-def FindDuplicate(directory):
-	print('THE DUPLICATE FILES ARE:- ')
-	groups=createdictfiles(directory)
-	for index in groups:
-		if (len(groups[index])>=2):
-			print(groups[index])
-
-
-def givedirectory(drive,directname):	
-	for root,dirs,files in os.walk(drive,True):
-		for dirname in dirs:
-			if dirname==directname:
-				FindDuplicate(os.path.join(root,directname))
-			
-				
-def takedriveandfolder(drivename,directname):
-	if drivename=='C':
-		pathdrive=(drivename+':\\Users\\user\\Desktop\\')
-		givedirectory(pathdrive,directname)
-	elif drivename=='D':
-		pathdrive=(drivename+':\\')
-		givedirectory(pathdrive,directname)
-	elif drivename=='E':
-		pathdrive=(drivename+':\\')
-		givedirectory(pathdrive,directname)	
+def FindDuplicate(directoryname):
+	try:
+		groups=createdictfiles(directoryname)
+		for index in groups:	
+			if (len(groups[index])>=2):
+				print('THE DUPLICATE FILES ARE:- ')
+				print(groups[index])
+	except:
+		print('NO GROUPS PRINTED')
 		
+def givedirectory(drive,directoryname):
+	try:
+		for root,dirs,files in os.walk(drive,True):	
+			for dirname in dirs:	
+				if dirname==directoryname:		
+					FindDuplicate(os.path.join(root,directoryname))
+	except:
+		print('NO DIRECTORY NAME MATCHED')
+		
+				
+def takedriveandfolder(drivename,directoryname):
+	try:
+		if drivename=='C':
+			pathdrive=(drivename+':\\Users\\user\\Desktop\\')
+			givedirectory(pathdrive,directoryname)
+		elif drivename=='D':
+			pathdrive=(drivename+':\\')
+			givedirectory(pathdrive,directoryname)
+		elif drivename=='E':
+			pathdrive=(drivename+':\\')
+			givedirectory(pathdrive,directoryname)	
+	except:
+		print('INCORRECT INPUT')
 		
 drivename=input('ENTER DRIVE NAME: ').upper()		
-directname=input('ENTER THE DIRECTORY NAME: ')
-takedriveandfolder(drivename,directname)
+directoryname=input('ENTER THE DIRECTORY NAME: ')
+takedriveandfolder(drivename,directoryname)
