@@ -15,11 +15,11 @@ The File Duplicate Finder is a Python program that helps you find duplicate file
  bash git clone https://github.com/Saptarshi2001/Duplicate-File-Finder.git
 ## Functions used:-
 > takedriveandfolder(drivename,directoryname):
-- This function takes in the drive and the directory name ,you need to search for
-> givedirectory(drive,directoryname)::
-- This function traverses the directory and checks in whether the directory is present or not,If it    is ,then it calls FindDuplicate function and gets the hash code.It then prints those values of       the hash code whose length is more than or equals to two thus printing the duplicate files
+- This function takes in the drive and the directory name ,you need to search for.
+> givedirectory(drive,directoryname):
+- This function traverses the directory and checks in whether the directory is present or not,If it    is ,then it calls FindDuplicate function and gets the hash code.It then prints those values of the hash code whose length is more than or equals to two thus printing the duplicate files.
 > createdictfiles(directoryname):
-- This function takes in the directory name ,opens the files and then generates the hash code     
+- This function takes in the directory name ,opens the files and then generates the hash code.     
 ## To search for duplicate files
 - Run the python script:-
 ## Enter the drive name where you want to search
