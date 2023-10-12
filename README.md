@@ -1,7 +1,7 @@
 # File Duplicate Finder
 
 ## Description
-The File Duplicate Finder is a Python program that helps you find duplicate files in a given directory in any of your disk drives. It uses file hashing techniques to identify files with identical content, allowing you to efficiently clean up your file system and save disk space.
+The File Duplicate Finder is a cli tool that helps you find duplicate files in a given directory in any of your disk drives. It uses file hashing techniques to identify files with identical content, allowing you to efficiently clean up your file system and save disk space.
 
 ## Features
 - Finds duplicate files based on their content, not just their names
