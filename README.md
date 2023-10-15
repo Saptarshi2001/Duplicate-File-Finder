@@ -12,7 +12,7 @@ The File Duplicate Finder is a cli tool that helps you find duplicate files in a
 - Python 3.3
 - os module
 ## Installation
- - git clone https://github.com/Saptarshi2001/Duplicate-File-Finder.git
+ - git clone `https://github.com/Saptarshi2001/Duplicate-File-Finder.git` 
 ## Functions used:-
 > takedriveandfolder(drivename,directoryname):
 - This function takes in the drive and the directory name ,you need to search for.
